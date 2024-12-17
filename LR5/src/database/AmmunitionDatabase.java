@@ -1,8 +1,6 @@
 package database;
 
 import ammunition.Ammunition;
-import knight.Knight;
-
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;

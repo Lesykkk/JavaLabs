@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/LR77/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LR7" />
+        <module name="LR8" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1" target="22" />
+      <module name="LR7.main" target="22" />
+      <module name="LR7.test" target="22" />
+      <module name="LR77" target="22" />
+      <module name="LR8.1" target="22" />
+      <module name="LR8old" target="22" />
+      <module name="untitled" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

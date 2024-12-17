@@ -1,0 +1,378 @@
+01:59:33.685 [main] INFO - Initializing menu...
+01:59:33.705 [main] INFO - Menu initialized successfully.
+01:59:33.705 [main] INFO - Displaying menu to the user...
+01:59:37.591 [main] INFO - Initializing menu...
+01:59:37.596 [main] INFO - Menu initialized successfully.
+01:59:37.596 [main] INFO - Displaying menu to the user...
+01:59:45.446 [main] INFO - User selected to exit the program.
+02:00:03.665 [main] INFO - Initializing menu...
+02:00:03.681 [main] INFO - Menu initialized successfully.
+02:00:03.681 [main] INFO - Displaying menu to the user...
+02:00:06.903 [main] INFO - Executing command: Show all knights
+02:02:05.051 [main] INFO - Initializing menu...
+02:02:05.066 [main] INFO - Menu initialized successfully.
+02:02:05.074 [main] INFO - Displaying menu to the user...
+02:02:09.378 [main] INFO - Executing command: Show all knights
+02:02:10.656 [main] INFO - Executing command: Show all ammunition
+02:02:10.667 [main] INFO - Ammunition data successfully loaded from database.
+02:02:10.667 [main] INFO - Ammunition database size: 5
+02:02:10.667 [main] INFO - Ammunition database empty: false
+02:02:10.667 [main] INFO - Ammunition data successfully loaded from database.
+02:02:30.492 [main] INFO - Executing command: Show all knights
+02:02:33.769 [main] INFO - User selected to exit the program.
+02:07:07.779 [main] INFO - Initializing menu...
+02:07:07.783 [main] DEBUG- deBug
+02:07:07.783 [main] WARN - wArn
+02:07:07.783 [main] ERROR- eRror
+02:07:10.495 [main] INFO - Menu initialized successfully.
+02:07:10.496 [main] INFO - Displaying menu to the user...
+02:17:03.102 [main] INFO - Initializing menu
+02:17:03.114 [main] INFO - Menu initialized successfully.
+02:17:03.114 [main] INFO - Displaying menu to the user
+02:17:09.622 [main] INFO - Executing command: Show all ammunition
+02:17:09.662 [main] INFO - Ammunition data successfully loaded from database.
+02:17:09.668 [main] DEBUG- Ammunition database size: 5
+02:17:09.668 [main] DEBUG- Ammunition database empty: false
+02:17:09.668 [main] INFO - Ammunition data successfully loaded from database.
+02:19:17.281 [main] INFO - Initializing menu
+02:19:17.297 [main] INFO - Menu initialized successfully.
+02:19:17.297 [main] INFO - Displaying menu to the user
+02:19:21.225 [main] INFO - Executing command: Show all ammunition
+02:19:21.258 [main] INFO - Ammunition data successfully loaded from database.
+02:19:21.258 [main] DEBUG- Ammunition database size: 5
+02:19:21.258 [main] DEBUG- Ammunition database empty: false
+02:19:21.274 [main] INFO - Ammunition data successfully loaded from database.
+02:19:51.888 [main] INFO - Initializing menu
+02:19:51.898 [main] INFO - Menu initialized successfully.
+02:19:51.898 [main] INFO - Displaying menu to the user
+02:19:57.010 [main] INFO - Executing command: Show all ammunition
+02:19:57.070 [main] INFO - Ammunition data successfully loaded from database.
+02:19:57.070 [main] DEBUG- Ammunition database size: 5
+02:19:57.070 [main] DEBUG- Ammunition database empty: false
+02:19:57.070 [main] INFO - Ammunition data successfully loaded from database.
+02:20:39.526 [main] INFO - User selected to exit the program.
+02:20:53.630 [main] INFO - Initializing menu
+02:20:53.639 [main] INFO - Menu initialized successfully.
+02:20:53.639 [main] INFO - Displaying menu to the user
+02:21:53.603 [main] INFO - User selected to exit the program.
+02:21:58.839 [main] INFO - Initializing menu
+02:21:58.850 [main] INFO - Menu initialized successfully.
+02:21:58.850 [main] INFO - Displaying menu to the user
+02:22:06.821 [main] INFO - Initializing menu
+02:22:06.831 [main] INFO - Menu initialized successfully.
+02:22:06.841 [main] INFO - Displaying menu to the user
+02:22:10.514 [main] INFO - Executing command: Show all ammunition
+02:22:10.562 [main] INFO - Ammunition data successfully loaded from database.
+02:22:10.562 [main] DEBUG- Ammunition database size: 5
+02:22:10.562 [main] DEBUG- Ammunition database empty: false
+02:22:10.562 [main] INFO - Ammunition data successfully loaded from database.
+02:22:23.397 [main] INFO - User selected to exit the program.
+02:25:23.338 [main] INFO - Initializing menu
+02:25:23.355 [main] INFO - Menu initialized successfully.
+02:25:23.355 [main] INFO - Displaying menu to the user
+02:25:34.916 [main] INFO - Executing command: Show all knights
+02:25:34.950 [main] INFO - Knight data successfully loaded from database.
+02:25:34.956 [main] DEBUG- Knight database size: 3
+02:25:34.956 [main] DEBUG- Knight database empty: false
+02:25:34.956 [main] INFO - Knight data successfully loaded from database.
+02:25:34.956 [main] INFO - Knight data successfully loaded from database.
+02:25:34.956 [main] DEBUG- Knight database size: 3
+02:25:34.962 [main] INFO - Knight data successfully loaded from database.
+02:25:34.962 [main] DEBUG- Knight database size: 3
+02:25:34.962 [main] INFO - Knight data successfully loaded from database.
+02:25:34.962 [main] DEBUG- Knight database size: 3
+02:25:34.962 [main] INFO - Knight data successfully loaded from database.
+02:25:34.962 [main] DEBUG- Knight database size: 3
+02:26:34.427 [main] INFO - Initializing menu
+02:26:34.447 [main] INFO - Menu initialized successfully.
+02:26:34.447 [main] INFO - Displaying menu to the user
+02:26:48.158 [main] INFO - Executing command: Show all knights
+02:26:48.205 [main] INFO - Knight data successfully loaded from database.
+02:26:48.206 [main] DEBUG- Knight database size: 3
+02:26:48.206 [main] DEBUG- Knight database empty: false
+02:26:48.206 [main] INFO - Knight data successfully loaded from database.
+02:26:48.206 [main] INFO - Knight data successfully loaded from database.
+02:26:48.206 [main] DEBUG- Knight database size: 3
+02:26:48.216 [main] INFO - Knight data successfully loaded from database.
+02:26:48.216 [main] DEBUG- Knight database size: 3
+02:26:48.216 [main] INFO - Knight data successfully loaded from database.
+02:26:48.216 [main] DEBUG- Knight database size: 3
+02:26:48.216 [main] INFO - Knight data successfully loaded from database.
+02:26:48.216 [main] DEBUG- Knight database size: 3
+02:27:32.662 [main] INFO - Executing command: Remove knight
+02:27:32.662 [main] INFO - Knight data successfully loaded from database.
+02:27:32.667 [main] DEBUG- Knight database size: 3
+02:27:32.667 [main] DEBUG- Knight database empty: false
+02:27:32.667 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] DEBUG- Knight database size: 3
+02:27:32.671 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] DEBUG- Knight database size: 3
+02:27:32.671 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] DEBUG- Knight database size: 3
+02:27:32.671 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] DEBUG- Knight database size: 3
+02:27:32.671 [main] INFO - Knight data successfully loaded from database.
+02:27:32.671 [main] DEBUG- Knight database size: 3
+02:27:51.800 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at thirdparty.Choice.inputId(Choice.java:12) ~[classes/:?]
+	at command.RemoveKnightCommand.execute(RemoveKnightCommand.java:22) ~[classes/:?]
+	at knightapp.Menu.display(Menu.java:49) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+02:28:12.656 [main] INFO - User selected to exit the program.
+02:35:38.129 [main] INFO - Initializing menu
+02:35:38.140 [main] INFO - Menu initialized successfully.
+02:35:38.140 [main] INFO - Displaying menu to the user
+02:35:42.797 [main] INFO - Executing command: Show all ammunition
+02:35:42.832 [main] INFO - Ammunition data successfully loaded from database.
+02:35:42.832 [main] DEBUG- Ammunition database size: 5
+02:35:42.832 [main] DEBUG- Ammunition database empty: false
+02:35:42.832 [main] INFO - Ammunition data successfully loaded from database.
+02:35:48.897 [main] INFO - User selected to exit the program.
+02:36:25.298 [main] INFO - Initializing menu
+02:36:25.308 [main] INFO - Menu initialized successfully.
+02:36:25.308 [main] INFO - Displaying menu to the user
+02:36:30.207 [main] INFO - Executing command: Show all ammunition
+02:36:30.255 [main] INFO - Ammunition data successfully loaded from database.
+02:36:30.255 [main] DEBUG- Ammunition database size: 5
+02:36:30.255 [main] DEBUG- Ammunition database empty: false
+02:36:30.255 [main] INFO - Ammunition data successfully loaded from database.
+02:38:12.047 [main] INFO - Initializing menu
+02:38:12.067 [main] INFO - Menu initialized successfully.
+02:38:12.067 [main] INFO - Displaying menu to the user
+02:38:18.428 [main] INFO - Executing command: Show all knights
+02:38:18.469 [main] INFO - Knight data successfully loaded from database.
+02:38:18.476 [main] DEBUG- Knight database size: 3
+02:38:18.476 [main] DEBUG- Knight database empty: false
+02:38:18.476 [main] INFO - Knight data successfully loaded from database.
+02:38:18.476 [main] INFO - Knight data successfully loaded from database.
+02:38:18.476 [main] DEBUG- Knight database size: 3
+02:38:18.483 [main] INFO - Knight data successfully loaded from database.
+02:38:18.483 [main] DEBUG- Knight database size: 3
+02:38:18.483 [main] INFO - Knight data successfully loaded from database.
+02:38:18.483 [main] DEBUG- Knight database size: 3
+02:38:18.489 [main] INFO - Knight data successfully loaded from database.
+02:38:18.489 [main] DEBUG- Knight database size: 3
+02:38:24.195 [main] INFO - User selected to exit the program.
+02:41:42.777 [main] INFO - Initializing menu
+02:41:42.789 [main] INFO - Menu initialized successfully.
+02:41:42.789 [main] INFO - Displaying menu to the user
+02:41:49.572 [main] INFO - Executing command: Show all knights
+02:41:49.615 [main] INFO - Knight data successfully loaded from database.
+02:41:49.615 [main] DEBUG- Knight database size: 3
+02:41:49.615 [main] DEBUG- Knight database empty: false
+02:41:49.618 [main] INFO - Knight data successfully loaded from database.
+02:41:49.618 [main] INFO - Knight data successfully loaded from database.
+02:41:49.618 [main] DEBUG- Knight database size: 3
+02:41:49.618 [main] INFO - Knight data successfully loaded from database.
+02:41:49.618 [main] DEBUG- Knight database size: 3
+02:41:49.618 [main] INFO - Knight data successfully loaded from database.
+02:41:49.618 [main] DEBUG- Knight database size: 3
+02:41:49.618 [main] INFO - Knight data successfully loaded from database.
+02:41:49.618 [main] DEBUG- Knight database size: 3
+02:41:55.815 [main] INFO - User selected to exit the program.
+03:11:23.770 [main] INFO - Initializing menu
+03:11:23.786 [main] INFO - Menu initialized successfully.
+03:11:23.786 [main] INFO - Displaying menu to the user
+03:12:07.161 [main] INFO - Executing command: Show all knights
+03:12:07.204 [main] INFO - Knight data successfully loaded from database.
+03:12:07.204 [main] DEBUG- Knight database size: 3
+03:12:07.204 [main] DEBUG- Knight database empty: false
+03:12:07.204 [main] INFO - Knight data successfully loaded from database.
+03:12:07.209 [main] INFO - Knight data successfully loaded from database.
+03:12:07.209 [main] DEBUG- Knight database size: 3
+03:12:07.209 [main] INFO - Knight data successfully loaded from database.
+03:12:07.209 [main] DEBUG- Knight database size: 3
+03:12:07.209 [main] INFO - Knight data successfully loaded from database.
+03:12:07.209 [main] DEBUG- Knight database size: 3
+03:12:07.209 [main] INFO - Knight data successfully loaded from database.
+03:12:07.209 [main] DEBUG- Knight database size: 3
+03:12:15.181 [main] INFO - User selected to exit the program.
+03:12:22.411 [main] INFO - Initializing menu
+03:12:22.411 [main] INFO - Menu initialized successfully.
+03:12:22.411 [main] INFO - Displaying menu to the user
+03:12:28.557 [main] INFO - Executing command: Show all knights
+03:12:28.608 [main] INFO - Knight data successfully loaded from database.
+03:12:28.608 [main] DEBUG- Knight database size: 3
+03:12:28.608 [main] DEBUG- Knight database empty: false
+03:12:28.608 [main] INFO - Knight data successfully loaded from database.
+03:12:28.608 [main] INFO - Knight data successfully loaded from database.
+03:12:28.608 [main] DEBUG- Knight database size: 3
+03:12:28.621 [main] INFO - Knight data successfully loaded from database.
+03:12:28.621 [main] DEBUG- Knight database size: 3
+03:12:28.621 [main] INFO - Knight data successfully loaded from database.
+03:12:28.621 [main] DEBUG- Knight database size: 3
+03:12:28.621 [main] INFO - Knight data successfully loaded from database.
+03:12:28.621 [main] DEBUG- Knight database size: 3
+03:12:39.435 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:12:56.612 [main] INFO - User selected to exit the program.
+03:15:38.924 [main] INFO - Initializing menu
+03:15:38.935 [main] INFO - Menu initialized successfully.
+03:15:38.935 [main] INFO - Displaying menu to the user
+03:16:24.543 [main] INFO - Executing command: Show all knights
+03:16:24.586 [main] INFO - Knight data successfully loaded from database.
+03:16:24.586 [main] DEBUG- Knight database size: 3
+03:16:24.586 [main] DEBUG- Knight database empty: false
+03:16:24.596 [main] INFO - Knight data successfully loaded from database.
+03:16:24.596 [main] INFO - Knight data successfully loaded from database.
+03:16:24.596 [main] DEBUG- Knight database size: 3
+03:16:24.604 [main] INFO - Knight data successfully loaded from database.
+03:16:24.604 [main] DEBUG- Knight database size: 3
+03:16:24.604 [main] INFO - Knight data successfully loaded from database.
+03:16:24.604 [main] DEBUG- Knight database size: 3
+03:16:24.604 [main] INFO - Knight data successfully loaded from database.
+03:16:24.604 [main] DEBUG- Knight database size: 3
+03:18:08.345 [main] INFO - User selected to exit the program.
+03:18:14.126 [main] INFO - Initializing menu
+03:18:14.140 [main] INFO - Menu initialized successfully.
+03:18:14.140 [main] INFO - Displaying menu to the user
+03:18:25.421 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:19:14.026 [main] INFO - Initializing menu
+03:19:14.039 [main] INFO - Menu initialized successfully.
+03:19:14.039 [main] INFO - Displaying menu to the user
+03:19:17.692 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:21:59.938 [main] INFO - Initializing menu
+03:21:59.954 [main] INFO - Menu initialized successfully.
+03:21:59.954 [main] INFO - Displaying menu to the user
+03:22:05.936 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:37:33.608 [main] INFO - Initializing menu
+03:37:33.629 [main] INFO - Menu initialized successfully.
+03:37:33.629 [main] INFO - Displaying menu to the user
+03:38:01.615 [main] INFO - Initializing menu
+03:38:01.615 [main] INFO - Menu initialized successfully.
+03:38:01.615 [main] INFO - Displaying menu to the user
+03:38:55.306 [main] INFO - Executing command: Show all knights
+03:38:55.350 [main] INFO - Knight data successfully loaded from database.
+03:38:55.350 [main] DEBUG- Knight database size: 3
+03:38:55.351 [main] DEBUG- Knight database empty: false
+03:38:55.352 [main] INFO - Knight data successfully loaded from database.
+03:38:55.353 [main] INFO - Knight data successfully loaded from database.
+03:38:55.353 [main] DEBUG- Knight database size: 3
+03:38:55.359 [main] INFO - Knight data successfully loaded from database.
+03:38:55.359 [main] DEBUG- Knight database size: 3
+03:38:55.359 [main] INFO - Knight data successfully loaded from database.
+03:38:55.359 [main] DEBUG- Knight database size: 3
+03:38:55.359 [main] INFO - Knight data successfully loaded from database.
+03:38:55.359 [main] DEBUG- Knight database size: 3
+03:38:56.801 [main] INFO - User selected to exit the program.
+03:39:17.390 [main] INFO - Initializing menu
+03:39:17.401 [main] INFO - Menu initialized successfully.
+03:39:17.401 [main] INFO - Displaying menu to the user
+03:39:23.510 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:42:29.116 [main] INFO - Initializing menu
+03:42:29.122 [main] INFO - Menu initialized successfully.
+03:42:29.122 [main] INFO - Displaying menu to the user
+03:42:35.534 [main] INFO - Executing command: Show all knights
+03:42:35.582 [main] INFO - Knight data successfully loaded from database.
+03:42:35.582 [main] DEBUG- Knight database size: 3
+03:42:35.582 [main] DEBUG- Knight database empty: false
+03:42:35.582 [main] INFO - Knight data successfully loaded from database.
+03:42:35.582 [main] INFO - Knight data successfully loaded from database.
+03:42:35.582 [main] DEBUG- Knight database size: 3
+03:42:35.591 [main] INFO - Knight data successfully loaded from database.
+03:42:35.591 [main] DEBUG- Knight database size: 3
+03:42:35.591 [main] INFO - Knight data successfully loaded from database.
+03:42:35.591 [main] DEBUG- Knight database size: 3
+03:42:35.591 [main] INFO - Knight data successfully loaded from database.
+03:42:35.591 [main] DEBUG- Knight database size: 3
+03:42:41.416 [main] INFO - User selected to exit the program.
+03:42:46.627 [main] INFO - Initializing menu
+03:42:46.638 [main] INFO - Menu initialized successfully.
+03:42:46.638 [main] INFO - Displaying menu to the user
+03:42:48.759 [main] INFO - Executing command: Show all knights
+03:42:48.803 [main] INFO - Knight data successfully loaded from database.
+03:42:48.803 [main] DEBUG- Knight database size: 3
+03:42:48.803 [main] DEBUG- Knight database empty: false
+03:42:48.803 [main] INFO - Knight data successfully loaded from database.
+03:42:48.806 [main] INFO - Knight data successfully loaded from database.
+03:42:48.806 [main] DEBUG- Knight database size: 3
+03:42:48.806 [main] INFO - Knight data successfully loaded from database.
+03:42:48.806 [main] DEBUG- Knight database size: 3
+03:42:48.806 [main] INFO - Knight data successfully loaded from database.
+03:42:48.806 [main] DEBUG- Knight database size: 3
+03:42:48.806 [main] INFO - Knight data successfully loaded from database.
+03:42:48.806 [main] DEBUG- Knight database size: 3
+03:43:02.394 [main] INFO - Executing command: Show all knights
+03:43:02.394 [main] INFO - Knight data successfully loaded from database.
+03:43:02.394 [main] DEBUG- Knight database size: 3
+03:43:02.394 [main] DEBUG- Knight database empty: false
+03:43:02.394 [main] INFO - Knight data successfully loaded from database.
+03:43:02.394 [main] INFO - Knight data successfully loaded from database.
+03:43:02.394 [main] DEBUG- Knight database size: 3
+03:43:02.394 [main] INFO - Knight data successfully loaded from database.
+03:43:02.394 [main] DEBUG- Knight database size: 3
+03:43:02.394 [main] INFO - Knight data successfully loaded from database.
+03:43:02.407 [main] DEBUG- Knight database size: 3
+03:43:02.407 [main] INFO - Knight data successfully loaded from database.
+03:43:02.407 [main] DEBUG- Knight database size: 3
+03:43:06.401 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:43:12.546 [main] INFO - User selected to exit the program.
+03:43:40.539 [main] INFO - Initializing menu
+03:43:40.559 [main] INFO - Menu initialized successfully.
+03:43:40.559 [main] INFO - Displaying menu to the user
+03:43:42.691 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]
+03:44:12.616 [main] INFO - Initializing menu
+03:44:12.616 [main] INFO - Menu initialized successfully.
+03:44:12.616 [main] INFO - Displaying menu to the user
+03:44:14.179 [main] ERROR- An error occurred while executing a menu option: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at knightapp.Menu.display(Menu.java:40) [classes/:?]
+	at knightapp.Main.main(Main.java:5) [classes/:?]

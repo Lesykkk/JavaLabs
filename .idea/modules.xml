@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLabs.iml" filepath="$PROJECT_DIR$/.idea/JavaLabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/LR1/LR1.iml" filepath="$PROJECT_DIR$/LR1/LR1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LR2/LR2.iml" filepath="$PROJECT_DIR$/LR2/LR2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LR3/LR3.iml" filepath="$PROJECT_DIR$/LR3/LR3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LR4v2/LR4v2.iml" filepath="$PROJECT_DIR$/LR4v2/LR4v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LR5/LR5.iml" filepath="$PROJECT_DIR$/LR5/LR5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

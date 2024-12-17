@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <SMTP name="Mail" subject="Knightapp ERROR"
+              to="roman.leskiv.oi.2023@lpnu.ua"
+              from="2017.roman.8@gmail.com"
+              smtpHost="smtp.gmail.com"
+              smtpPort="465"
+              smtpUsername="2017.roman.8@gmail.com"
+              smtpPassword="tvad cydz emmb diac"
+              smtpProtocol="smtps">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level- %msg%n"/>
+            <Filters>
+                <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+        </SMTP>
+        <File name="FileAppender" fileName="LR8\src\application.log" append="true">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level- %msg%n"/>
+        </File>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level- %msg%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="Mail" level="ERROR"/>
+        </Root>
+    </Loggers>
+</Configuration>
